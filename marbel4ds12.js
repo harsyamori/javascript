@@ -1,3 +1,4 @@
+<script type="text/javascript">
 	atOptions = {
 		'key' : 'e85573a5aebabe3444e20325f43b19e0',
 		'format' : 'iframe',
@@ -6,4 +7,4 @@
 		'params' : {}
 	};
 </script>
-<script type="text/javascript" src="//www.topcreativeformat.com/e85573a5aebabe3444e20325f43b19e0/invoke.js">
+<script type="text/javascript" src="//www.topcreativeformat.com/e85573a5aebabe3444e20325f43b19e0/invoke.js"></script>
